@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shinobu Oshino
+* source:	https://sketchfab.com/3d-models/shinobu-oshino-4702a19f22704643bd5c53e5d979660b
+* author:	Yulius Krisna (https://sketchfab.com/yuliuskrisna)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shinobu Oshino" (https://sketchfab.com/3d-models/shinobu-oshino-4702a19f22704643bd5c53e5d979660b) by Yulius Krisna (https://sketchfab.com/yuliuskrisna) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
